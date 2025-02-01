@@ -1,2 +1,2 @@
-repository: "oci://ghcr.io/grafana/helm-charts/grafana-operator"
+repository: "ghcr.io/grafana/helm-charts"
 version: "v5.16.*"
