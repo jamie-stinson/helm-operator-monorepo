@@ -1,2 +1,3 @@
+chart: "grafana-operator"
 repository: "ghcr.io/grafana/helm-charts"
-version: "5.16.*"
+version: "v5.16.*"
