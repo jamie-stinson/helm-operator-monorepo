@@ -1,2 +1,2 @@
 repository: "ghcr.io/grafana/helm-charts"
-version: "v5.16.*"
+version: "5.16.*"
