@@ -1,3 +1,0 @@
-chart: "grafana-operator"
-repository: "ghcr.io/grafana/helm-charts"
-version: "v5.16.*"
