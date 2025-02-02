@@ -1,6 +1,0 @@
-repository: "https://cloudnative-pg.io/charts"
-version: "0.23.*"
-
-replicaCount: 2
-crds:
-  create: true
